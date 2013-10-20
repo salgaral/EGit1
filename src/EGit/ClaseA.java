@@ -10,5 +10,5 @@ public class ClaseA {
 	public void m6(){}
 	
 	public void m9(){}
-
+	public void m10(){}
 }
